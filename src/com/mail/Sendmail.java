@@ -16,9 +16,9 @@ public class Sendmail {
 		private String email;
 		public void sendmail(String email) 
 		{
-		final String from = "hackathonproject786@gmail.com";
+		final String from = "";
 		String to = email;
-		final String password = "xyzzyspoon@123";
+		final String password = "";
 		String host =  "smtp.gmail.com";
 		String port = "587";
 		
